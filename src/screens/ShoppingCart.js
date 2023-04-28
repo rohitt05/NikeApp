@@ -35,7 +35,7 @@ const ShoppingCart = () => {
 
 const styles = StyleSheet.create({
   totalContainer: {
-    margin: 20,
+    margin: 10,
     paddingTop: 10,
     borderColor: "gainsboro",
     borderTopWidth: 1,
@@ -52,6 +52,7 @@ const styles = StyleSheet.create({
   textBold: {
     fontSize: 16,
     fontWeight: "500",
+    marginBottom: 70
   },
   button: {
     position: "absolute",
